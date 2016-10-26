@@ -1,1 +1,3 @@
 # Zk_Python_Mysql_Replace
+
+采取Python脚本的方式，实现MySQL数据库字段的插入替换
